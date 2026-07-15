@@ -2,7 +2,15 @@
 
 Shows GitHub Copilot premium-request quota in the macOS menu bar via [xbar](https://xbarapp.com).
 
-<img width="275" alt="image" src="https://github.maybank.com/user-attachments/assets/5102ade5-a2cf-47e8-8b74-dba2f3845087" />
+<img width="302" height="190" alt="image" src="https://github.com/user-attachments/assets/47b5b067-b1c2-4394-a1c3-d46cb01fd482" />
+
+
+<img width="304" height="187" alt="image" src="https://github.com/user-attachments/assets/6c4ad43b-f5f8-4561-89a3-f3968651d6fa" />
+
+
+
+
+
 
 ## Requirements
 
